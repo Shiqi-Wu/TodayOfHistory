@@ -1,0 +1,10 @@
+{
+  "base_dir": "/Users/shiqi/Documents/Personal-Code-Tools/douyin-downloader/Downloaded/孙亦航.",
+  "template": "#孙亦航[超话]#\n\n那年今日（{year}{month}{day}）dy更新\n\n“{hashtags}”\n\n@孙亦航mew ",
+  "login_wait": 30,
+  "upload_wait": 25,
+  "chrome_detach": true,
+  "browser_maximize": true,
+  "image_extensions": [".jpg", ".jpeg", ".png", ".gif"],
+  "video_extensions": [".mp4", ".mov"]
+}
